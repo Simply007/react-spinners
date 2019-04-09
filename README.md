@@ -4,7 +4,6 @@
 
 [![npm](https://img.shields.io/npm/v/@simply007org/react-spinners.svg?maxAge=1000)](https://www.npmjs.com/package/@simply007org/react-spinners)
 [![npm](https://img.shields.io/npm/dt/@simply007org/react-spinners.svg?maxAge=1000)](https://www.npmjs.com/package/@simply007org/react-spinners)
-[![npm](https://img.shields.io/npm/l/@simply007org/react-spinners?maxAge=1000)](@simply007org/react-spinners)
 
 A library for easily managing loading spinners in complex React applications.
 
