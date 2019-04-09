@@ -1,6 +1,6 @@
 # @simply007org/react-spinners
 
-[![Build Status](https://img.shields.io/travis/@Simply007/react-spinners.svg?maxAge=1000)](https://travis-ci.org/@Simply007/react-spinners)
+[![Build Status](https://img.shields.io/travis/Simply007/react-spinners.svg?maxAge=1000)](https://travis-ci.org/@Simply007/react-spinners)
 
 [![npm](https://img.shields.io/npm/v/@simply007org/react-spinners.svg?maxAge=1000)](https://www.npmjs.com/package/@simply007org/react-spinners)
 [![npm](https://img.shields.io/npm/dt/@simply007org/react-spinners.svg?maxAge=1000)](https://www.npmjs.com/package/@simply007org/react-spinners)
