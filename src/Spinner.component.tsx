@@ -51,8 +51,15 @@ export class SpinnerComponent extends React.Component<ISpinnerProps, ISpinnerSta
   }
 
  render() {
-    const divStyle = this.props.style ?? { display: 'inline-block' };
-
+    //const divStyle = this.props.style ?? { display: 'inline-block' };
+    let divStyle = {};
+    if (this.props.style) {
+      divStyle = this.props.style;
+    }
+    else {
+      divStyle = { display: 'inline-block' };
+    }
+   
     if (this.state.show) {
       const { loadingImage } = this.props;
       return (
